@@ -1,0 +1,26 @@
+<assembly>
+	<id>dist-win-64</id>
+	<formats>
+		<format>zip</format>
+	</formats>
+	<fileSets>
+		<fileSet>
+			<directory>../../skels/common</directory>
+			<outputDirectory>/</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<directory>../../skels/win</directory>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>*</include>
+			</includes>
+		</fileSet>
+		<fileSet>
+			<directory>${project.build.directory}</directory>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>superluminal2-win.jar</include>
+			</includes>
+		</fileSet>
+	</fileSets>
+</assembly>

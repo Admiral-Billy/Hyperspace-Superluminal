@@ -1,0 +1,18 @@
+target/
+pom.xml.versionsBackup
+
+*.class
+*.tmp
+*.bak
+~$*
+
+
+# Windows image file caches
+Thumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+
+# Mac crap
+.DS_Store

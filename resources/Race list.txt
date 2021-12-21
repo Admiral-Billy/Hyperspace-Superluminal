@@ -1,0 +1,66 @@
+human,Human
+engineer,Human Engineer
+medic,Human Medic
+soldier,Human Soldier
+engi,Engi
+seperatist,Engi Separatist
+defend,Engi Defender
+energy,Zoltan
+bomber,Duskbringer Devotee
+monk,Zoltan Monk
+peace,Zoltan Peacekeeper
+orchid,Orchid
+chieftain,Orchid Chieftain
+mantis,Mantis
+suzerain,Mantis Suzerain
+bishop,Mantis Bishop
+slug,Slug
+sabo,Slug Saboteur
+snail,Slug Clansman
+rock,Rock
+outcast,Rock Outcast
+commando,Rock Commando
+cultist,Ember Cultist
+crusader,Rock Crusader
+crystal,Crystal
+sentinel,Crystalline Sentinel
+anaerobic,Lanius
+welder,Lanius Welder
+ghosty,Ghost
+phantom,Ghost Phantom
+shell,Shell
+toxic,Shell Radiant
+ancient,Ancient
+royal,Ancient Royal
+tully,Tully
+turzil,Turzil
+symbiote,Symbiote
+ruwen,Ruwen
+lord,Grand Priest Lord Vortigon
+traveler,Traveler
+deep_one,Deep One
+star_one,Star Child
+moonbeast,Moon-Beast
+oornbeast,Oorn-Beast
+daoloth,Daoloth Engi
+shuma,Shuma-Zoltan
+glaakian,Gla'akian Slug
+mhar,Mhar Rockman
+qythaz,Q'yth-Az Crystal
+migo,Mi-Go
+shubgo,Scrag
+zombie,Zombie
+zombie_ghoul,Ghoul
+zombie_slasher,Slasher
+zombie_wheezer,Wheezer
+ftx_elf,Elf
+ftx_piet,P.I.E.T. Agent
+ftx_goblin,Goblin
+ftx_santa,Santa
+ftx_belsnickel,Belsnickel
+ftx_moroz,Ded Moroz
+penguin,Penguin
+rockhopper,Rockhopper Penguin
+albino_penguin,Albino Penguin
+zombie_draugr,Draugr
+ghost,Vanilla Ghost(Don't use)
